@@ -1,5 +1,5 @@
 body {
-    background: #CCC;
+    background: #f7e8e6;
 }
 
 #Header a:hover 
@@ -55,8 +55,26 @@ body {
 
 #Projects .card 
 {
-    border-top: 7px solid green;
+    border-top: 7px solid #4BB543;
 }
+
+#Mini-Projects span 
+{
+    padding: 10px 20px 10px 20px;
+}
+
+#Mini-Projects hr
+{
+    border-width: 3px;
+    margin-top: 6px;
+}
+
+#Mini-Projects .card 
+{
+    border-top: 7px solid #4BB543;
+}
+
+
 
 #Contact span
 {
